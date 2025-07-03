@@ -9,7 +9,7 @@
 
 
 ## Architecture
-[](https://github.com/propenster/tinycsharp/blob/master/propenster_tinycsharp.drawio.png)
+![tinycsharp_architecture](https://github.com/propenster/tinycsharp/blob/master/propenster_tinycsharp.drawio.png)
 
 
 
