@@ -8,5 +8,9 @@
 
 
 
+## Architecture
+
+
+
 (c) 2025 propenster
 
